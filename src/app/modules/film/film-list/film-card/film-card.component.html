@@ -1,0 +1,27 @@
+<div class="m-2 card">
+  <a
+    class="card__link"
+    [routerLink]="'/details/' + film._embedded.show.id"
+    target="_blank"
+  ></a>
+  <img
+    [src]="film._embedded.show.image?.medium || 'https://picsum.photos/210/295'"
+    class="card-img-top"
+    alt=""
+  />
+  <div class="card__body m-1">
+    <h5 class="card__title">{{ film._embedded.show.name }}</h5>
+    <p class="card__subtitle">{{film.name}} (Sezon {{ film.season }})</p>
+    <p
+      class="card__text"
+      [innerHtml]="
+        film._embedded.show.summary
+          ? (film._embedded.show.summary | truncate: 150:true:'...')
+          : 'Brak opisu'
+      "
+    ></p>
+    <p *ngIf="film.airtime" class="card__subtitle-airtime fw-bold fst-italic position-absolute bottom-0">
+      Premiera: {{ film.airtime }}
+    </p>
+  </div>
+</div>

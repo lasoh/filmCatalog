@@ -1,0 +1,3 @@
+<button [class.selected]="elem.active" (click)="toggleButton(elem)" class="btn btn-outline-secondary btn-sm m-1" data-toggle="button" *ngFor="let elem of elements">
+  {{elem.name}}
+</button>

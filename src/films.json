@@ -1,0 +1,2255 @@
+[
+  {
+    "id": 2044712,
+    "url": "https://www.tvmaze.com/episodes/2044712/sesame-street-51x13-elmo-and-the-healthy-heroes",
+    "name": "Elmo and the Healthy Heroes",
+    "season": 51,
+    "number": 13,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 30,
+    "image": null,
+    "summary": null,
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2044712" } },
+    "_embedded": {
+      "show": {
+        "id": 6544,
+        "url": "https://www.tvmaze.com/shows/6544/sesame-street",
+        "name": "Sesame Street",
+        "type": "Scripted",
+        "language": "English",
+        "genres": ["Children"],
+        "status": "Running",
+        "runtime": 30,
+        "averageRuntime": 53,
+        "premiered": "1969-11-10",
+        "officialSite": "https://www.hbomax.com/series/urn:hbo:series:GXouLWwp8MsPDIgEAAAqT",
+        "schedule": { "time": "", "days": ["Thursday"] },
+        "rating": { "average": 8.2 },
+        "weight": 66,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": 5152, "thetvdb": 78419, "imdb": "tt0063951" },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/222/555972.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/222/555972.jpg"
+        },
+        "summary": "<p><b>Sesame Street</b> is a widely recognized and perpetually daring experiment in educational children's programming. This show has taken popular-culture and turned it upside-down. The fast-paced advertisements that had parents of the new era worrying for their children were the basis for the original format of this show. The show has often satirized pop culture, and made itself easier for parents to watch along too. And thus, the positive impact this show has had on modern society is beyond another. No show is more recognized the world over by as many generations and walks of life. Shown in its original format or with changes to reflect a regional education focus, Sesame Street is now seen in over 140 countries. The show that Entertainment Weekly named the \"20th Best Ever Show\" has changed the education scene to focus on \"entertainment\". This has turned out to be a valuable theory that not only...</p>",
+        "updated": 1615451215,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/6544" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2044717"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2036961,
+    "url": "https://www.tvmaze.com/episodes/2036961/wwe-main-event-10x05-main-event-436",
+    "name": "Main Event 436",
+    "season": 10,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 60,
+    "image": null,
+    "summary": null,
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2036961" } },
+    "_embedded": {
+      "show": {
+        "id": 16753,
+        "url": "https://www.tvmaze.com/shows/16753/wwe-main-event",
+        "name": "WWE Main Event",
+        "type": "Reality",
+        "language": "English",
+        "genres": ["Sports"],
+        "status": "Running",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2012-10-03",
+        "officialSite": "https://www.wwe.com/shows/wwemainevent",
+        "schedule": { "time": "", "days": ["Thursday"] },
+        "rating": { "average": null },
+        "weight": 64,
+        "network": null,
+        "webChannel": {
+          "id": 15,
+          "name": "WWE Network",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 374470, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/233/584404.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/233/584404.jpg"
+        },
+        "summary": "<p><b>WWE Main Event</b> is a professional wrestling television program produced by WWE that originally aired on Ion Television in the United States and it originally aired on the WWE Network now airing on Hulu.</p>",
+        "updated": 1623586446,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/16753" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2111505"
+          },
+          "nextepisode": { "href": "https://api.tvmaze.com/episodes/2111506" }
+        }
+      }
+    }
+  },
+  {
+    "id": 2008768,
+    "url": "https://www.tvmaze.com/episodes/2008768/esme-roy-2x28-the-tooting-twosome",
+    "name": "The Tooting Twosome",
+    "season": 2,
+    "number": 28,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Hugo and Fig are practicing for their Monsterdale Festival duet when Fig gets a case of the monster hiccups!</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2008768" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023284,
+    "url": "https://www.tvmaze.com/episodes/2023284/esme-roy-2x29-cheer-up-pup",
+    "name": "Cheer up, Pup!",
+    "season": 2,
+    "number": 29,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Can Simon and the Monstersitters find a way to cheer up Willie after his best doggie friend moves away?</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023284" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023285,
+    "url": "https://www.tvmaze.com/episodes/2023285/esme-roy-2x30-cant-touch-this",
+    "name": "Can't Touch This",
+    "season": 2,
+    "number": 30,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Fig wants to touch everything. Now it's up to Esme and Roy to find something for her to play with.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023285" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023286,
+    "url": "https://www.tvmaze.com/episodes/2023286/esme-roy-2x31-mission-bedtime",
+    "name": "Mission Bedtime",
+    "season": 2,
+    "number": 31,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Will the Monstersitters be able to help Simon stop playing his new game and get ready for bed?</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023286" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023287,
+    "url": "https://www.tvmaze.com/episodes/2023287/esme-roy-2x32-flying-high",
+    "name": "Flying High",
+    "season": 2,
+    "number": 32,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Can the Monstersitters find a game that Snugs, Frank, and Franny can all play together?</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023287" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023288,
+    "url": "https://www.tvmaze.com/episodes/2023288/esme-roy-2x33-hugo-the-entertainer",
+    "name": "Hugo the Entertainer",
+    "season": 2,
+    "number": 33,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Hugo tries to find a show that entertains everyone.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023288" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023289,
+    "url": "https://www.tvmaze.com/episodes/2023289/esme-roy-2x34-dream-team",
+    "name": "Dream Team",
+    "season": 2,
+    "number": 34,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>When Hugo and Tillie start turning everything into a competition, Esme and Roy try to find a way for them to play together.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023289" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023290,
+    "url": "https://www.tvmaze.com/episodes/2023290/esme-roy-2x35-its-a-jungle-out-there",
+    "name": "It's A Jungle Out There",
+    "season": 2,
+    "number": 35,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>The Monstersitters help Simon discover a fun way to exercise.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023290" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023291,
+    "url": "https://www.tvmaze.com/episodes/2023291/esme-roy-2x36-swoozlepox",
+    "name": "Swoozlepox",
+    "season": 2,
+    "number": 36,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>When Simon comes down with a case of Swoozlepox, Esme and Roy try to help him stop scratching.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023291" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023292,
+    "url": "https://www.tvmaze.com/episodes/2023292/esme-roy-2x37-balloon-blues",
+    "name": "Balloon Blues",
+    "season": 2,
+    "number": 37,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>The Monstersitters help Snugs overcome his fear of heights so he can ride the hot air balloon ride at the fair.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023292" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023293,
+    "url": "https://www.tvmaze.com/episodes/2023293/esme-roy-2x38-tillie-unplugged",
+    "name": "Tillie Unplugged",
+    "season": 2,
+    "number": 38,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>When the power goes out, Esme and Roy help Tillie have fun without electricity.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023293" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023295,
+    "url": "https://www.tvmaze.com/episodes/2023295/esme-roy-2x39-starring-simon",
+    "name": "Starring Simon",
+    "season": 2,
+    "number": 39,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>The Monstersitters help Hugo and Simon make a movie together.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023295" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023296,
+    "url": "https://www.tvmaze.com/episodes/2023296/esme-roy-2x40-doctor-drama",
+    "name": "Doctor Drama",
+    "season": 2,
+    "number": 40,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>The Monstersitters help Tillie get ready for her doctor's appointment.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023296" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023297,
+    "url": "https://www.tvmaze.com/episodes/2023297/esme-roy-2x41-dumplings-birthday",
+    "name": "Dumplings Birthday",
+    "season": 2,
+    "number": 41,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>It's Dumpling's birthday and Simon and Hugo are helping set up! Can the Monstersitters get them to compromise on party decorations?</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023297" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023298,
+    "url": "https://www.tvmaze.com/episodes/2023298/esme-roy-2x42-sofishticated-taste",
+    "name": "Sofishticated Taste",
+    "season": 2,
+    "number": 42,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Snugs has to eat a healthy dinner before he can have his favorite dessert.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023298" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023299,
+    "url": "https://www.tvmaze.com/episodes/2023299/esme-roy-2x43-knight-rider",
+    "name": "Knight Rider",
+    "season": 2,
+    "number": 43,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Esme and Roy help Tillie regain her courage after she falls off her bike.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023299" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023300,
+    "url": "https://www.tvmaze.com/episodes/2023300/esme-roy-2x44-unicorn-tillie",
+    "name": "Unicorn Tillie",
+    "season": 2,
+    "number": 44,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Tillie has a big soccer game, but she doesn't want to change out of her unicorn costume! </p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023300" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023301,
+    "url": "https://www.tvmaze.com/episodes/2023301/esme-roy-2x45-boxed-in",
+    "name": "Boxed In",
+    "season": 2,
+    "number": 45,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>When the MonsterCase breaks down, Snugs looks through a box of old toys to find something to play with.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023301" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023302,
+    "url": "https://www.tvmaze.com/episodes/2023302/esme-roy-2x46-monsterpet-badge",
+    "name": "Monsterpet Badge",
+    "season": 2,
+    "number": 46,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Simon is trying to earn his Pet Badge, but Willie won't stop playing.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023302" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023303,
+    "url": "https://www.tvmaze.com/episodes/2023303/esme-roy-2x47-the-long-goodnight",
+    "name": "The Long Goodnight",
+    "season": 2,
+    "number": 47,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>When Simon and Snugs have a sleepover, they discover that they have very different bedtime routines.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023303" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023304,
+    "url": "https://www.tvmaze.com/episodes/2023304/esme-roy-2x48-best-day-ever",
+    "name": "Best Day Ever",
+    "season": 2,
+    "number": 48,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Hugo is having the best beach day ever and doesn't want the fun to end!</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023304" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023305,
+    "url": "https://www.tvmaze.com/episodes/2023305/esme-roy-2x49-the-waiting-game",
+    "name": "The Waiting Game",
+    "season": 2,
+    "number": 49,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Fig has a hard time waiting her turn at the playground.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023305" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023306,
+    "url": "https://www.tvmaze.com/episodes/2023306/esme-roy-2x50-fansgiving",
+    "name": "Fansgiving",
+    "season": 2,
+    "number": 50,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Simon learns the true meaning of Fangsgiving after things don't go according to plan.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023306" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023307,
+    "url": "https://www.tvmaze.com/episodes/2023307/esme-roy-2x51-tillie-talks",
+    "name": "Tillie Talks",
+    "season": 2,
+    "number": 51,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 10,
+    "image": null,
+    "summary": "<p>Tillie keeps interrupting Snugs on their playdate.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023307" } },
+    "_embedded": {
+      "show": {
+        "id": 48041,
+        "url": "https://www.tvmaze.com/shows/48041/esme-roy",
+        "name": "Esme & Roy",
+        "type": "Animation",
+        "language": "English",
+        "genres": ["Adventure", "Children", "Fantasy"],
+        "status": "To Be Determined",
+        "runtime": 10,
+        "averageRuntime": 10,
+        "premiered": "2018-08-18",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GXsglJQS-CIsfsAEAAABI:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 63,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 350883, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/259/649564.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/259/649564.jpg"
+        },
+        "summary": "<p>Esme and Roy are best friends — and the best monstersitters in Monsterdale! The animated series from the makers of <i>Sesame Street</i> will bring little viewers into a colorful world where even the littlest monsters can overcome big challenges together.</p>",
+        "updated": 1612436872,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48041" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023307"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2035281,
+    "url": "https://www.tvmaze.com/episodes/2035281/double-cross-2x05-lock-and-key",
+    "name": "Lock and Key",
+    "season": 2,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 35,
+    "image": null,
+    "summary": null,
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2035281" } },
+    "_embedded": {
+      "show": {
+        "id": 48776,
+        "url": "https://www.tvmaze.com/shows/48776/double-cross",
+        "name": "Double Cross",
+        "type": "Scripted",
+        "language": "English",
+        "genres": ["Drama", "Crime", "Thriller"],
+        "status": "Running",
+        "runtime": 35,
+        "averageRuntime": 34,
+        "premiered": "2020-05-21",
+        "officialSite": "https://allblk.tv/doublecross/",
+        "schedule": { "time": "", "days": ["Thursday"] },
+        "rating": { "average": 5.8 },
+        "weight": 72,
+        "network": null,
+        "webChannel": {
+          "id": 209,
+          "name": "ALLBLK",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 383952,
+          "imdb": "tt11784676"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/262/655424.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/262/655424.jpg"
+        },
+        "summary": "<p>Follows Erica and Eric Cross two siblings on a quest to save the women in their neighborhood from a sex trafficking ring that's taken over Dr. Erica's hospital emergency room and shaken up the streets ran by \"The Heights\" Kingpin, Eric. Haunted by their past, the twins set down a path of their unique brand of vigilante justice.</p>",
+        "updated": 1616252709,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/48776" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2035282"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2007801,
+    "url": "https://www.tvmaze.com/episodes/2007801/selena-chef-2x07-selena-marcela-valladolid",
+    "name": "Selena + Marcela Valladolid",
+    "season": 2,
+    "number": 7,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 26,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/297/743888.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/297/743888.jpg"
+    },
+    "summary": "<p>On a mission to demystify a traditional mole recipe, chef and author Marcela Valladolid helps Selena connect to her Mexican roots with shredded chicken mole enchiladas.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2007801" } },
+    "_embedded": {
+      "show": {
+        "id": 49538,
+        "url": "https://www.tvmaze.com/shows/49538/selena-chef",
+        "name": "Selena + Chef",
+        "type": "Reality",
+        "language": "English",
+        "genres": ["Food"],
+        "status": "Running",
+        "runtime": 25,
+        "averageRuntime": 26,
+        "premiered": "2020-08-13",
+        "officialSite": "https://play.hbomax.com/series/urn:hbo:series:GXxiTeAijaTFAlwEAAADX",
+        "schedule": { "time": "", "days": ["Thursday"] },
+        "rating": { "average": 6.6 },
+        "weight": 83,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 385646,
+          "imdb": "tt12786914"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/292/731648.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/292/731648.jpg"
+        },
+        "summary": "<p>Join Selena Gomez in the kitchen as she embraces the joys and struggles of learning to cook with the guidance of master chefs.</p>",
+        "updated": 1619211459,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/49538" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2007803"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2007802,
+    "url": "https://www.tvmaze.com/episodes/2007802/selena-chef-2x08-selena-evan-funke",
+    "name": "Selena + Evan Funke",
+    "season": 2,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 27,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/297/743889.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/297/743889.jpg"
+    },
+    "summary": "<p>Two-time James Beard Award-nominated chef and cookbook author Evan Funke hosts a masterclass in handmade pasta.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2007802" } },
+    "_embedded": {
+      "show": {
+        "id": 49538,
+        "url": "https://www.tvmaze.com/shows/49538/selena-chef",
+        "name": "Selena + Chef",
+        "type": "Reality",
+        "language": "English",
+        "genres": ["Food"],
+        "status": "Running",
+        "runtime": 25,
+        "averageRuntime": 26,
+        "premiered": "2020-08-13",
+        "officialSite": "https://play.hbomax.com/series/urn:hbo:series:GXxiTeAijaTFAlwEAAADX",
+        "schedule": { "time": "", "days": ["Thursday"] },
+        "rating": { "average": 6.6 },
+        "weight": 83,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 385646,
+          "imdb": "tt12786914"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/292/731648.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/292/731648.jpg"
+        },
+        "summary": "<p>Join Selena Gomez in the kitchen as she embraces the joys and struggles of learning to cook with the guidance of master chefs.</p>",
+        "updated": 1619211459,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/49538" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2007803"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2007803,
+    "url": "https://www.tvmaze.com/episodes/2007803/selena-chef-2x09-selena-graham-elliot",
+    "name": "Selena + Graham Elliot",
+    "season": 2,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 28,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/297/743890.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/297/743890.jpg"
+    },
+    "summary": "<p>Two-time Michelin-starred chef, TV host, and author Graham Elliott puts his unique spin on a mouthwatering hamburger and deconstructed Caesar salad.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2007803" } },
+    "_embedded": {
+      "show": {
+        "id": 49538,
+        "url": "https://www.tvmaze.com/shows/49538/selena-chef",
+        "name": "Selena + Chef",
+        "type": "Reality",
+        "language": "English",
+        "genres": ["Food"],
+        "status": "Running",
+        "runtime": 25,
+        "averageRuntime": 26,
+        "premiered": "2020-08-13",
+        "officialSite": "https://play.hbomax.com/series/urn:hbo:series:GXxiTeAijaTFAlwEAAADX",
+        "schedule": { "time": "", "days": ["Thursday"] },
+        "rating": { "average": 6.6 },
+        "weight": 83,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 385646,
+          "imdb": "tt12786914"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/292/731648.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/292/731648.jpg"
+        },
+        "summary": "<p>Join Selena Gomez in the kitchen as she embraces the joys and struggles of learning to cook with the guidance of master chefs.</p>",
+        "updated": 1619211459,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/49538" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2007803"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2017186,
+    "url": "https://www.tvmaze.com/episodes/2017186/haute-dog-1x08-pup-stars",
+    "name": "Pup Stars",
+    "season": 1,
+    "number": 8,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 28,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/295/738708.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738708.jpg"
+    },
+    "summary": "<p>Three groomers compete in two \"pup\" star challenges to give their adorable pooches multi-platinum makeovers inspired by today's biggest recording artists.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2017186" } },
+    "_embedded": {
+      "show": {
+        "id": 50302,
+        "url": "https://www.tvmaze.com/shows/50302/haute-dog",
+        "name": "Haute Dog",
+        "type": "Reality",
+        "language": "English",
+        "genres": [],
+        "status": "To Be Determined",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2020-09-24",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GX2TedgOIjh6fnAEAAAFJ:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 0,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 388311,
+          "imdb": "tt13064206"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/295/738702.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738702.jpg"
+        },
+        "summary": "<p><b>Haute Dog</b> is a head-to-tail dog grooming creative competition series showcasing canine breeds of all kinds.</p>",
+        "updated": 1612435607,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/50302" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023283"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023280,
+    "url": "https://www.tvmaze.com/episodes/2023280/haute-dog-1x09-fairy-tails",
+    "name": "Fairy Tails",
+    "season": 1,
+    "number": 9,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 27,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/295/738707.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738707.jpg"
+    },
+    "summary": "<p>It's story time as our groomers transform mixed-breed dogs into magical princes, princesses, and fairy-tale creatures – but only one will be crowned the fairest of them all and fly away with $10,000.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023280" } },
+    "_embedded": {
+      "show": {
+        "id": 50302,
+        "url": "https://www.tvmaze.com/shows/50302/haute-dog",
+        "name": "Haute Dog",
+        "type": "Reality",
+        "language": "English",
+        "genres": [],
+        "status": "To Be Determined",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2020-09-24",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GX2TedgOIjh6fnAEAAAFJ:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 0,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 388311,
+          "imdb": "tt13064206"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/295/738702.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738702.jpg"
+        },
+        "summary": "<p><b>Haute Dog</b> is a head-to-tail dog grooming creative competition series showcasing canine breeds of all kinds.</p>",
+        "updated": 1612435607,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/50302" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023283"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023281,
+    "url": "https://www.tvmaze.com/episodes/2023281/haute-dog-1x10-disco-in-fur-no",
+    "name": "Disco In-Fur-No",
+    "season": 1,
+    "number": 10,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 27,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/295/738706.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738706.jpg"
+    },
+    "summary": "<p>This throwback episode boogies back to the 70s, when bell-bottoms and sequins were all the rage. But only one of our three groovy groomers will turn their pup into the ultimate disco dog!</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023281" } },
+    "_embedded": {
+      "show": {
+        "id": 50302,
+        "url": "https://www.tvmaze.com/shows/50302/haute-dog",
+        "name": "Haute Dog",
+        "type": "Reality",
+        "language": "English",
+        "genres": [],
+        "status": "To Be Determined",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2020-09-24",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GX2TedgOIjh6fnAEAAAFJ:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 0,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 388311,
+          "imdb": "tt13064206"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/295/738702.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738702.jpg"
+        },
+        "summary": "<p><b>Haute Dog</b> is a head-to-tail dog grooming creative competition series showcasing canine breeds of all kinds.</p>",
+        "updated": 1612435607,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/50302" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023283"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023282,
+    "url": "https://www.tvmaze.com/episodes/2023282/haute-dog-1x11-super-paws",
+    "name": "Super Paws",
+    "season": 1,
+    "number": 11,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 29,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/295/738705.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738705.jpg"
+    },
+    "summary": "<p>It's a bird. It's a plane. It's… super-canine! Armed only with their shears, our groomers fly into action to turn some furry friends into their personal heroes.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023282" } },
+    "_embedded": {
+      "show": {
+        "id": 50302,
+        "url": "https://www.tvmaze.com/shows/50302/haute-dog",
+        "name": "Haute Dog",
+        "type": "Reality",
+        "language": "English",
+        "genres": [],
+        "status": "To Be Determined",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2020-09-24",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GX2TedgOIjh6fnAEAAAFJ:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 0,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 388311,
+          "imdb": "tt13064206"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/295/738702.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738702.jpg"
+        },
+        "summary": "<p><b>Haute Dog</b> is a head-to-tail dog grooming creative competition series showcasing canine breeds of all kinds.</p>",
+        "updated": 1612435607,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/50302" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023283"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2023283,
+    "url": "https://www.tvmaze.com/episodes/2023283/haute-dog-1x12-dog-years",
+    "name": "Dog Years",
+    "season": 1,
+    "number": 12,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 29,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/295/738704.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738704.jpg"
+    },
+    "summary": "<p>Three top groomers show respect for their elders in two hilarious challenges that spotlight timeless \"grandpaw\" looks from yesteryear.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2023283" } },
+    "_embedded": {
+      "show": {
+        "id": 50302,
+        "url": "https://www.tvmaze.com/shows/50302/haute-dog",
+        "name": "Haute Dog",
+        "type": "Reality",
+        "language": "English",
+        "genres": [],
+        "status": "To Be Determined",
+        "runtime": 28,
+        "averageRuntime": 28,
+        "premiered": "2020-09-24",
+        "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GX2TedgOIjh6fnAEAAAFJ:type:series",
+        "schedule": { "time": "", "days": [] },
+        "rating": { "average": null },
+        "weight": 0,
+        "network": null,
+        "webChannel": {
+          "id": 329,
+          "name": "HBO Max",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 388311,
+          "imdb": "tt13064206"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/295/738702.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738702.jpg"
+        },
+        "summary": "<p><b>Haute Dog</b> is a head-to-tail dog grooming creative competition series showcasing canine breeds of all kinds.</p>",
+        "updated": 1612435607,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/50302" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2023283"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2051425,
+    "url": "https://www.tvmaze.com/episodes/2051425/trailer-park-boys-jail-1x06-rash",
+    "name": "RASH",
+    "season": 1,
+    "number": 6,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "",
+    "airstamp": "2021-02-04T17:00:00+00:00",
+    "runtime": 25,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/301/752844.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/301/752844.jpg"
+    },
+    "summary": "<p>Bubbles gets some bad news - are his hopes and dreams fackin' dashed? But on the upside, the Sunnyvale Correctional Facility has a new inmate, and he knows how to get things done...</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2051425" } },
+    "_embedded": {
+      "show": {
+        "id": 54241,
+        "url": "https://www.tvmaze.com/shows/54241/trailer-park-boys-jail",
+        "name": "Trailer Park Boys: JAIL",
+        "type": "Scripted",
+        "language": "English",
+        "genres": ["Comedy"],
+        "status": "To Be Determined",
+        "runtime": 25,
+        "averageRuntime": 25,
+        "premiered": "2021-01-01",
+        "officialSite": "https://www.swearnet.com/shows/trailer-park-boys-jail/seasons/1",
+        "schedule": { "time": "", "days": ["Thursday"] },
+        "rating": { "average": null },
+        "weight": 79,
+        "network": null,
+        "webChannel": {
+          "id": 464,
+          "name": "SwearNet",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 394325,
+          "imdb": "tt13732684"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/300/751599.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/300/751599.jpg"
+        },
+        "summary": "<p>It's been peaceful and tranquil in Sunnyvale Trailer Park lately, but that's because The Boys aren't there. Ricky, Julian, and Bubbles are back...in JAIL.</p>",
+        "updated": 1616882988,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/54241" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2051429"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2022923,
+    "url": "https://www.tvmaze.com/episodes/2022923/wwe-nxt-uk-2021-02-04-episode-5",
+    "name": "Episode 5",
+    "season": 2021,
+    "number": 5,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "15:00",
+    "airstamp": "2021-02-04T20:00:00+00:00",
+    "runtime": 60,
+    "image": null,
+    "summary": null,
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2022923" } },
+    "_embedded": {
+      "show": {
+        "id": 39053,
+        "url": "https://www.tvmaze.com/shows/39053/wwe-nxt-uk",
+        "name": "WWE NXT UK",
+        "type": "Sports",
+        "language": "English",
+        "genres": [],
+        "status": "Running",
+        "runtime": 60,
+        "averageRuntime": 60,
+        "premiered": "2018-10-17",
+        "officialSite": null,
+        "schedule": { "time": "15:00", "days": ["Thursday"] },
+        "rating": { "average": null },
+        "weight": 47,
+        "network": null,
+        "webChannel": {
+          "id": 15,
+          "name": "WWE Network",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": { "tvrage": null, "thetvdb": 354295, "imdb": null },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/171/428725.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/171/428725.jpg"
+        },
+        "summary": "<p>The one-hour episodes will feature the biggest names from NXT UK, including Pete Dunne, Mark Andrews, Rhea Ripley, Toni Storm, Tyler Bate, Trent Seven and Wolfgang. Joining the NXT UK broadcasting team as backstage interviewer is British broadcasting personality Radzi Chinyanganya, best known for hosting ITV game show \"Cannonball,\" and in his ongoing role as a presenter of the world's longest-running children's TV show, the BBC's \"Blue Peter.\" Calling the action are commentators Nigel McGuinness and Vic Joseph, joined by ring announcer Andy Shepherd and NXT UK General Manager, the legendary Johnny Saint.</p>",
+        "updated": 1623847420,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/39053" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2113654"
+          }
+        }
+      }
+    }
+  },
+  {
+    "id": 2017867,
+    "url": "https://www.tvmaze.com/episodes/2017867/a-little-late-with-lilly-singh-2x16-alok-vaid-menon",
+    "name": "Alok Vaid-Menon",
+    "season": 2,
+    "number": 16,
+    "type": "regular",
+    "airdate": "2021-02-04",
+    "airtime": "01:35",
+    "airstamp": "2021-02-05T06:35:00+00:00",
+    "runtime": 30,
+    "image": {
+      "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/295/739048.jpg",
+      "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/739048.jpg"
+    },
+    "summary": "<p>Writer Alok Vaid-Menon.</p>",
+    "_links": { "self": { "href": "https://api.tvmaze.com/episodes/2017867" } },
+    "_embedded": {
+      "show": {
+        "id": 41440,
+        "url": "https://www.tvmaze.com/shows/41440/a-little-late-with-lilly-singh",
+        "name": "A Little Late with Lilly Singh",
+        "type": "Talk Show",
+        "language": "English",
+        "genres": ["Comedy"],
+        "status": "Ended",
+        "runtime": 30,
+        "averageRuntime": 30,
+        "premiered": "2019-09-16",
+        "officialSite": "https://www.nbc.com/a-little-late-with-lilly-singh",
+        "schedule": {
+          "time": "01:35",
+          "days": ["Monday", "Tuesday", "Wednesday", "Thursday"]
+        },
+        "rating": { "average": 7 },
+        "weight": 90,
+        "network": {
+          "id": 1,
+          "name": "NBC",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "webChannel": {
+          "id": 11,
+          "name": "NBC.com",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "dvdCountry": null,
+        "externals": {
+          "tvrage": null,
+          "thetvdb": 368955,
+          "imdb": "tt10023178"
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/291/728249.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/291/728249.jpg"
+        },
+        "summary": "<p>The comedian, actress, author and producer brings her unique perspective to late night as she hosts celebrity guests, performs musical and sketch comedy, plays games, and more.</p>",
+        "updated": 1623232172,
+        "_links": {
+          "self": { "href": "https://api.tvmaze.com/shows/41440" },
+          "previousepisode": {
+            "href": "https://api.tvmaze.com/episodes/2098594"
+          }
+        }
+      }
+    }
+  }
+]

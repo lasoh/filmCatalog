@@ -1,0 +1,38 @@
+<div class="row justify-content-center mt-3">
+  <div class="col-3">
+    <ng-container *ngIf="filmFilterForm.get('calendar')">
+      <div class="form-group">
+        <div class="input-group">
+          <input
+            autocomplete="off"
+            class="form-control"
+            [formControl]="filmFilterForm.get('calendar')"
+            placeholder="Wybierz datę..."
+            name="dp"
+            ngbDatepicker
+            #d="ngbDatepicker"
+          />
+          <span class="input-group-text"><button
+            class="btn calendar"
+            (click)="d.toggle()"
+            type="button"
+          ></button></span>
+        </div>
+      </div>
+    </ng-container>
+  </div>
+</div>
+<div class="row justify-content-center my-3">
+  <div class="col-9 text-center">
+    <app-badge-filter
+      [formControl]="filmFilterForm.get('genres')"
+      [elements]="genres"
+    ></app-badge-filter>
+  </div>
+</div>
+<ng-container *ngIf="films.length; else brakDanych">
+  <app-film-card [film]="film" *ngFor="let film of films"> </app-film-card>
+</ng-container>
+<ng-template #brakDanych>
+  Proszę wybrać inne paramenty z dostępnych filtrów.
+</ng-template>

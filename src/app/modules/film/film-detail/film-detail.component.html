@@ -1,0 +1,33 @@
+<div class="row justify-content-center">
+  <div class="col col-9 text-center my-4">
+    <h1>{{ film.name }}</h1>
+  </div>
+  <div class="col-12">
+    <div class="row justify-content-around">
+      <div class="col-3">
+        <a [href]="film.url" target="_blank"><img [src]="film.image.medium || 'https://picsum.photos/210/295'"/></a>
+      </div>
+      <div class="col-9 position-relative">
+        <div class="row" *ngIf="film.language">
+          <div class="col-2 fw-bold">Język</div>
+          <div class="col-9">{{film.language}}</div>
+        </div>
+        <div class="row" *ngIf="film.premiered">
+          <div class="col-2 fw-bold">Data premiery</div>
+          <div class="col-9">{{film.premiered}}</div>
+        </div>
+        <div class="row" *ngIf="film.type">
+          <div class="col-2 fw-bold">Typ</div>
+          <div class="col-9">{{film.type}}</div>
+        </div>
+        <div class="row mt-3" *ngIf="film.summary">
+          <div class="col-12 fw-bold">Opis</div>
+          <div class="col-12" [innerHtml]="film.summary"></div>
+        </div>
+        <div class="text-center position-absolute bottom-0">
+          <span class="badge bg-dark mx-1" *ngFor="let genre of film.genres">{{genre}}</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
